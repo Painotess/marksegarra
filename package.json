@@ -1,0 +1,7 @@
+{
+  "name": "mark-memory-album",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Romantic digital memory album — static site + Vercel functions that save to GitHub.",
+  "engines": { "node": ">=18" }
+}
